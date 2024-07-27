@@ -1,69 +1,3 @@
-Linha 13 - 
-Daughters of Darkness
-The Addiction
-From Dusk till Dawn
-What we do in the shadows
-interview with a vampire
-Let the right one in
-Thirst
-Near Dark
-A Girl walks home alone at night
-cronos
-blade
-Bram Stoker's Dracula
-Fright Night
-The Lost Boys
-The Hunger
-Vampyr
-Horror of Dracula
-Grace
-Dracula
-Nosferatu
-
-Linha 7 -
-The Amittyville Horror
-The Uninvited
-Ava's Possessions
-Luz
-Ju-On : The Grudge
-The Wailing
-A Tale of Two Sisters
-Insidious
-Paranormal Activity
-Invaders from Mars
-The Shining
-Possession
-The taking of Deborah Logan
-Annabelle: Creation
-REC
-The exorcism of Emily Rose
-Jennifer's Body
-Prince of Darkness
-The Exorcist
-The Blood on Santan's Claw
-The conjuring
-The Last Exorcism 
-Fallen
-Voices
-Freaky
-Demons
-Evil Dead II
-The Evil Dead
-
-Linha 9 - 
-Dracula
-Nosferatu
-The Invisible Man
-The Invisible Man (1933)
-Frankenstein
-The Bride of Frankenstein 
-The curse of Frankenstein
-Leprechaum
-The mummy
-Dr. Jekyll and Mr. Hyde
-Creature From the Black Lagoon
-The Phantom of the Opera
-
 Linha 1 -
 Creep
 Misery
@@ -77,6 +11,7 @@ Diabolique
 Antichrist
 Don't Look Now
 Dr. Jekyll and Mr. Hyde
+Excision
 What Ever Happened to Baby Jane?
 Possessor
 Tenebrae
@@ -84,6 +19,9 @@ Psycho
 Split
 The Fly
 Raw
+Get Out
+Swallow
+Audition
 The Silence of the Lambs
 The skin i Live in
 Relic
@@ -143,7 +81,7 @@ The Witch
 The Strangers
 The Eyes of My Mother
 
-Linha 3 - 
+Linha 3 -
 Signs
 The Lodge
 The Ritual
@@ -160,3 +98,386 @@ Mother Joan of the Angels
 The Exorcism of Emily Rose
 I Walked with a Zombie
 The Exorcist
+
+Linha 4 -
+Paranormal Activity
+Insidious   
+A Take of Two Sisters
+The Wailing
+Ju-On: The Grudge
+The Sixth Sense
+Poltergeist
+Terrified
+The Orphenage
+Carnival of Souls
+Ringu
+The Fog
+We Are Still Here
+The Woman in Black
+The Devil's Backbone
+The Changeling
+The Uninvited   
+Crimson Peak
+Beetlejuice
+The Haunting
+Impetigore
+Spiral
+Host
+La Llorona
+The Others
+It
+Under the Shadow
+Lake Mungo
+November
+Drag me to Hell
+The Innocents
+ParaNorman
+Candyman
+Child's Play
+Sleepy Hollow
+Friday the 13th Part 2 
+Ghostbusters
+Kwaidan
+Pet Sematary
+Coraline
+the Phantom Carriage
+The Phantom of the Opera
+
+Linha 5 - 
+Children of the Corn 
+Cat People
+Demons
+The House of the Devil
+Skull: The Mask
+The Devil's Advocate
+Hellraiser
+The Witch
+Drag me to Hell
+Hàxan 
+Suspiria
+November
+Rosemary's Baby
+The Black Cat
+The Omen
+The Masque of the Red Death
+At Midnight I'll Take Your Souls
+Hereditary
+Annabelle: Creation
+REC
+The exorcism of Emily Rose
+Jennifer's Body
+Prince of Darkness
+The Exorcist
+The Blood on Santan's Claw
+The conjuring
+The Last Exorcism
+
+Linha 6 -
+The Babadook
+Relic
+The Legend of Hell House
+Burnt Offerings
+House
+The Old Dark House
+The Amityville Horror
+The Uninvited
+The Changeling
+The Devil's Backbone
+The Woman in Black
+We Are Still Here 
+Crimson Peak
+Beetlejuice
+The Haunting
+
+Linha 7 -
+The Amittyville Horror
+The Uninvited
+Ava's Possessions
+Luz
+Ju-On : The Grudge
+The Wailing
+A Tale of Two Sisters
+Insidious
+Paranormal Activity
+Invaders from Mars
+The Shining
+Possession
+The taking of Deborah Logan
+Annabelle: Creation
+REC
+The exorcism of Emily Rose
+Jennifer's Body
+Prince of Darkness
+The Exorcist
+The Blood on Santan's Claw
+The conjuring
+The Last Exorcism 
+Fallen
+Voices
+Freaky
+Demons
+Evil Dead II
+The Evil Dead
+
+Linha 8 -
+Pumpkinhead
+The conjuring
+Inferno
+Black Sunday
+Superstition
+The House of the Devil
+Witching & Bitching
+The Witch
+Drag Me to Hell
+Hàxan
+Suspiria
+Viy
+The Witches
+Elvira, Mistress of the Darkness
+The Craft
+The Love Witch
+ParaNorman
+The Blair Witch Project
+
+Linha 9 -
+Dracula
+Nosferatu
+The Invisible Man
+The Invisible Man (1933)
+Frankenstein
+The Bride of Frankenstein 
+The curse of Frankenstein
+Leprechaum
+The mummy
+Dr. Jekyll and Mr. Hyde
+Creature From the Black Lagoon
+The Phantom of the Opera
+Linha 10 - 
+Shaun of the Dead
+The Return of the Living Dead
+I Walked with a Zombie
+Prince of Darkness
+Overlord
+Day of the Dead
+Planet Terror
+Dawn of the Dead
+Braindead
+Night of the Living Dead
+Versus
+World War Z
+One Cut of the Dead
+It Comes at Night
+The Masque of the Red Death
+The Last Man on Earth
+Zombie Flesh Eaters
+Zombieland
+28 Days Later
+Train to Busan
+Phantasm
+Rabid
+REC
+
+Linha 11 -
+Cat People 
+Silver Bullet
+Ginger Snaps 
+Dog Soldiers
+Good Manners
+The Wolf Man
+The Wolf of Snow Hollow
+The Howling
+Wolfen
+An American Werewolf in London
+The Company of Wolves
+
+Linha 12 -
+The Rocky Horror Picture Show
+The McPherson Tapes
+Village of the Damned
+Signs
+10 Cloverfield Lane
+Dark Skies 
+Invaders from Mars
+Life
+Sputnik
+The Thing
+Aliens
+Alien
+The Blob
+The Faculty
+Under the skin
+Species
+Annihilation
+Invasion of the Body Snatchers
+Invasion of the Body Snatchers
+
+Linha 13 -
+Daughters of Darkness
+The Addiction
+From Dusk till Dawn
+What we do in the shadows
+interview with a vampire
+Let the right one in
+Thirst
+Near Dark
+A Girl walks home alone at night
+cronos
+blade
+Bram Stoker's Dracula
+Fright Night
+The Lost Boys
+The Hunger
+Vampyr
+Horror of Dracula
+Grace
+Dracula
+Nosferatu
+
+Linha 14 -
+It follows 
+Basket Case
+The Funhouse
+Jeepers Creepers
+A Quiet Place
+The Mist
+Little Shop of Horrors
+The Host
+Gremlins
+Critters
+The Descent
+Cabin in the Woods
+Cloverfield
+Godzilla
+King Kong
+Monsters
+Pumpkinhead
+Piranha
+The Birds
+Jaws
+Arachnophobia
+
+Linha 15 -
+The House of the Devil
+Superstition
+Dressed to Killer
+Scream
+Happy Death Day
+Tourist Trap
+Voices
+Freaky
+Jeepers Creepers
+The Funhouse
+Basket Case
+I Know What You Did Last Summer
+Butcher, Baker, Nightmare Maker
+Children of Corn
+The Final Girls
+Sleepaway Camp
+The Last House on the Left
+Urban Legend
+Prom Night
+The Wolf of Snow Hollow
+The Howling
+House of Wax
+American Psycho
+High Tension
+Hush
+Black Christmas
+Inside
+Us
+The Hills Have Eyes
+Halloween
+The Bird with the Crystal Plumage
+The Burning
+Blood and Black Lace
+Friday The 13th
+Friday The 13th Part 2
+The Texas Chain saw Masssacre
+Child's Play 
+Candyman
+Psycho
+A Nightmare on Elm Street
+Peeping Tom
+Henry: Portrait of a Serial Killer
+
+Linha 16 -
+The Strangers
+The Eyes of My Mother
+The Purge
+When a Stranger Calls
+Ready or Not 
+Deep Red
+Don't Breathe
+The Prople under the stairs
+Funny Games
+Us
+Inside
+Black Christmas
+Hush
+High Tension
+
+Linha 17 - 
+Excision
+Cannibal Holocaust
+Green Room
+Videodrome
+Re-Animator
+Hostel
+Saw
+Battle Royale
+Tenebrae
+Possessor
+The Texas Chain saw Masssacre
+Sleepy Hollow
+The Toxic Avenger
+Ready or Not
+Pieces
+Street Trash
+The Howling
+Final Destination
+The Evil Dead
+Evil Dead II
+Skull: The Mask
+Witching & Bitching 
+Versus
+Night of the Living Dead
+Braindead
+Dawn of the Dead
+Planet Terror
+Day of the Dead
+
+Linha 18 -
+Freaks
+Society
+Eyes Without a Face
+Frankenstein
+The Bride of Frankenstein
+The Curse of Frankenstein
+Videodrome
+Re-Animator
+Eraserhead
+Tetsuo: The Iron Man
+From Beyond
+The Fly
+Raw
+Get Out
+Swallow
+Audition
+The Silence of the Lambs
+The Skin i Live in
+Relic
+Spiral
+Impetigore
+The Hallow
+Dead Ringers
+The Thing
+Aliens
+Alien
+The Blob
+The Faculty
+Under the skin
+Species
+Annihilation
+Invasion of the Body Snatchers
+Invasion of the Body Snatchers
+
